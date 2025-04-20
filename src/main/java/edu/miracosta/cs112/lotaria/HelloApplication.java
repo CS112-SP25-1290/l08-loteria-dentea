@@ -73,6 +73,7 @@ private int count = 0;
 
             cardImageView.setImage(drawnCard.getImage());
             messageLabel.setText(drawnCard.getCardName());
+            
         }
 
     }
